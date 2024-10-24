@@ -17,3 +17,6 @@ a:hover {
     background-color: #fafafa;
 }
 
+a:focus{
+    border: 1px solid #e9eafc;
+}

@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='page-layout'>
       <Card
-        profileImg={'neweadshot copy.jpeg'}
+        profileImg={'/static/img/neweadshot copy.jpeg'}
         profileName={'Nickolas Hujarski'}
         profileTitle={'Frontend Engineer'}
         profileBio={

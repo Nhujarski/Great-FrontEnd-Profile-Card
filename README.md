@@ -12,7 +12,7 @@ In this challenge, I built a simple profile card featuring a user's basic inform
 
 ### Deployed using Vercel
 
-https://great-frontend-testimonial-card-two.vercel.app/
+https://great-front-end-profile-card.vercel.app/
 
 ## Project Image
 

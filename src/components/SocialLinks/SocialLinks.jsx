@@ -8,19 +8,19 @@ const SocialLinks = ({}) => {
         aria-label='Link to Nicks GitHub profile'
         href='https://github.com/Nhujarski'
         target='_blank'>
-        <img src='icons/github-fill.png' />
+        <img src='/static/icons/github-fill.png' />
       </a>
       <a>
-        <img src='icons/instagram-fill.png' />
+        <img src='/static/icons/instagram-fill.png' />
       </a>
       <a
         href='https://www.linkedin.com/in/nickhujarski/'
         aria-label='Link to Nicks LinkedIn profile'
         target='_blank'>
-        <img src='icons/linkedin-box-fill.png' />
+        <img src='/static/icons/linkedin-box-fill.png' />
       </a>
       <a>
-        <img src='icons/twitter-x-fill.png' />
+        <img src='/static/icons/twitter-x-fill.png' />
       </a>
     </div>
   );

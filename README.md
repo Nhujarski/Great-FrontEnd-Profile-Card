@@ -8,7 +8,7 @@ Follow my journey here ---> https://www.greatfrontend.com/projects/u/Nhujarski
 
 ## About the project
 
-In this challenge, I developed a card featuring a user testimonial, including a profile image, name, username, and the testimonial body.
+In this challenge, I built a simple profile card featuring a user's basic information and links to their social media profiles.
 
 ### Deployed using Vercel
 

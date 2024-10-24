@@ -13,7 +13,10 @@ const SocialLinks = ({}) => {
       <a>
         <img src='icons/instagram-fill.png' />
       </a>
-      <a>
+      <a
+        href='https://www.linkedin.com/in/nickhujarski/'
+        aria-label='Link to Nicks LinkedIn profile'
+        target='_blank'>
         <img src='icons/linkedin-box-fill.png' />
       </a>
       <a>
